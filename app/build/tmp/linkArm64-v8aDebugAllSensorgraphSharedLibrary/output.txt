@@ -1,0 +1,4 @@
+See file:///C:/Users/Jerald/Desktop/android%20codes/Sensor-Graph/app/build/tmp/linkArm64-v8aDebugAllSensorgraphSharedLibrary/output.txt for all output for linkArm64-v8aDebugAllSensorgraphSharedLibrary.
+linking libsensorgraph.so successful.
+
+Finished linkArm64-v8aDebugAllSensorgraphSharedLibrary, see full log file:///C:/Users/Jerald/Desktop/android%20codes/Sensor-Graph/app/build/tmp/linkArm64-v8aDebugAllSensorgraphSharedLibrary/output.txt.

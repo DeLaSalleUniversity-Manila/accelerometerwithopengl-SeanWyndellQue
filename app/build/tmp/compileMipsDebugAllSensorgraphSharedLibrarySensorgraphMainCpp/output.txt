@@ -1,0 +1,4 @@
+See file:///C:/Users/Jerald/Desktop/android%20codes/Sensor-Graph/app/build/tmp/compileMipsDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileMipsDebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileMipsDebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///C:/Users/Jerald/Desktop/android%20codes/Sensor-Graph/app/build/tmp/compileMipsDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.

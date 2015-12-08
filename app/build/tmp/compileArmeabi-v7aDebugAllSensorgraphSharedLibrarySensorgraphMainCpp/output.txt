@@ -1,0 +1,4 @@
+See file:///C:/Users/Jerald/Desktop/android%20codes/Sensor-Graph/app/build/tmp/compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt for all output for compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp.
+compiling sensorgraph.cpp successful.
+
+Finished compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp, see full log file:///C:/Users/Jerald/Desktop/android%20codes/Sensor-Graph/app/build/tmp/compileArmeabi-v7aDebugAllSensorgraphSharedLibrarySensorgraphMainCpp/output.txt.
